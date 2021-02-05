@@ -8,6 +8,7 @@
 1) Download new zip file when posted.
 2) Run .exe and install in the SAME EXACT location as your initial INSTALLATION. 
 3) The app will auto update while keeping all of your data in tact.
+4) The app will prompt if you are ever on an old version. No worries about being left behind.
 
 : HOW TO - COLLEGE PLAYOFFS :
 1) Select your desired playoffs (4 Team or 8 Team)
@@ -27,10 +28,22 @@
 
 : HOW TO - POLL EDITOR :
 1) Select your dynasty file (before week 9 will NOT show CFB (BCS) rankings)
-2) Click team image of spot you want to change, selecting new team will swap the new team with old team in its entirety.
+2) You can edit the poll in 3 ways:
+	2a) Click team image of spot you want to change, selecting new team will swap the new team with old team in its entirety.
+	2b) Drag and drop the teams where you want. Drag and drop TOP 25 and Drag and Drop #26-126. Cannot drag #26 onto #25.
+	2c) Use the sort arrows to quickly move the teams up and down in TOP 25.
 3) Tabs on the left hand side let you switch from BCS, Coaches, Media polls.
-4) When you are done editing your desired polls, the floppy disk icon in the bottom right is to 'SAVE DYNASTY FILE'.
+4) When you are done editing your desired polls, the floppy disk icon in the bottom right is to 'SAVE'.
 5) You can edit all 3 polls and then save, you do not need to edit one poll, save, edit another poll. The save icon will go away after the first save.
+
+: HOW TO - DB EDITOR :
+1) Simply load your file following same rules as COLLEGE PLAYOFFS #3 depending on your system.
+2) XOBX and PS3 users MUST hit the back arrow to re-save their file so it properly works. PC guys just close the app when finished.
+3) Each change auto saves, CTRL + Z can undo changes if you screw up. 
+4) Export simply exports the CURRENT selected table.
+5) Import will import CSV records into the SELECTED table. Do not try to import SCHD into the PLAY table, you will mess your stuff up. The app will have a backup as mentioned before in the install folder.
+6) If you load a playbook file, you will see SITUATION VIEWER, use it to tweak what plays AI can call and how often (PRCT).
+7) Nothing is defined, its presented as laid out in the file. Hopefully will be added in the future.
 
 : PLAYOFF TIPS AND TRICKS : 
 1) The camera at the top left allows you take a screenshot of your bracket at each step and save to desktop to share.
@@ -44,8 +57,18 @@
 : POLL EDITOR TIPS AND TRICKS : 
 1) You can only save file once (this is done to help PS3 users from messing up their encrypted file). Edit all polls you want THEN save.
 2) Teams in Coaches and Media polls swap place, first place votes, and points.
+3) Set up your polls prioor to using the playoffs for the best experience.
 
 : FAQ :
+Q: I am PS3 user and my file says "Corrupted". What now?
+A: It just is not encrypted. Run it through BRUTEFORCE to encrypt it back or send me the file to help you out. Report when this happens so I can make sure it was not the apps fault.
+
+Q: My version keeps saying I am on the outdated version. Help?
+A: You did not install the new version in the same exact install location as previous builds. Uninstall all versions using ADD/REMOVE programs in Windows. Reinstall.
+
+Q: My bracket shows placeholder teams. Did the app mess up?
+A: Doubtful. You might have loaded steps in incorrect order or twice and saved! Start fresh, hope you made a backup, otherwise go to install location and inside 'BACKUP' folder is a copy before you hit save.
+
 Q: My screenshot has a black window around it. Am I doing something wrong?
 A: No, this can be caused by GPU settings. Right click the shortcut and click 'Properties' > 'Change High DPI Settings' > Check 'Override high DPI...'.
 
@@ -72,5 +95,6 @@ TheBleedingRed21
 Arrowhead
 D_Wade
 CFBR Team
-Bep713 (Madden DB editor - HUGE THANKS!!!!)
+Bep713 (Madden DB editor)
 Flatz (pfdtool)
+CFBR Boosters who helped test the app
