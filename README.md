@@ -36,15 +36,6 @@
 4) When you are done editing your desired polls, the floppy disk icon in the bottom right is to 'SAVE'.
 5) You can edit all 3 polls and then save, you do not need to edit one poll, save, edit another poll. The save icon will go away after the first save.
 
-: HOW TO - DB EDITOR :
-1) Simply load your file following same rules as COLLEGE PLAYOFFS #3 depending on your system.
-2) XOBX and PS3 users MUST hit the back arrow to re-save their file so it properly works. PC guys just close the app when finished.
-3) Each change auto saves, CTRL + Z can undo changes if you screw up. 
-4) Export simply exports the CURRENT selected table.
-5) Import will import CSV records into the SELECTED table. Do not try to import SCHD into the PLAY table, you will mess your stuff up. The app will have a backup as mentioned before in the install folder.
-6) If you load a playbook file, you will see SITUATION VIEWER, use it to tweak what plays AI can call and how often (PRCT).
-7) Nothing is defined, its presented as laid out in the file. Hopefully will be added in the future.
-
 : PLAYOFF TIPS AND TRICKS : 
 1) The camera at the top left allows you take a screenshot of your bracket at each step and save to desktop to share.
 2) The flash when you click 'Exit to Menu' or 'Go Back' is normal, it prevents issues leaving the app open during each step.
