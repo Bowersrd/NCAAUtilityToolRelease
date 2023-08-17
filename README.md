@@ -1,4 +1,4 @@
 ** NOW DEPRECATED AND REPLACED **
 
-Go here for lateste version:
+Go here for latest version:
 https://github.com/Bowersrd/NCAA14DynastyToolRelease
